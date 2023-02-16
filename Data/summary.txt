@@ -1,0 +1,31 @@
+This project entails the task of text summarization of research papers in the healthcare
+A paper titled Telemedicine and health policy A systematic review
+The paper Telemedicine and Health Policy A Systematic Review reviews the current state
+of telemedicine and its impact on health policy The authors conducted a systematic review
+health policy The authors found that telemedicine has become increasingly prevalent in
+health care systems The authors also found that telemedicine has the potential to improve
+adoption including regulatory barriers lack of reimbursement for telemedicine services and
+limited access to technology in certain populations The authors recommend that health
+policy makers take steps to address these barriers including providing reimbursement fortelemedicine services improving access to technology and ensuring that telemedicine
+information ensuring that telemedicine services are integrated with existing health care
+systems and developing training programs for health care providers to deliver telemedicine
+shaping the future of health care but that there are a number of barriers to its widespread
+adoption They recommend that health policy makers take steps to address these barriers
+access to health care The authors also emphasize the importance of developing clear
+Telemedicine is increasingly prevalent and has potential to improve access to care
+Barriers to widespread adoption of telemedicine include regulatory barriers lack of
+Need for clear guidelines and standards for telemedicine practice to ensure safe and
+Conclusion Telemedicine has potential to shape the future of healthcare but barriers
+Further research is needed to address limitations of the study and provide
+more robust evidence for the impact of telemedicine on health policy
+Further studies should also examine the potential impact of telemedicine on
+Telemedicine is increasingly prevalent and has potential to improve access to
+Need for clear guidelines and standards for telemedicine practice to ensure
+Health policy makers need to address these barriers including providing
+reimbursement for telemedicine services improving access to technology
+health policy and to address limitations of the current study
+Addressing barriers to telemedicine adoption including providing
+Developing clear guidelines and standards for telemedicine practice
+Developing clear guidelines and standards for telemedicine practice
+The ppt should contain at least  slides  for each section of the research paper 
+The training data must contain at least  research papers in the healthcare domain

@@ -1,0 +1,110 @@
+1. Introduction
+Machine learning is rapidly gaining inuence in the education industry and can possibly strengthen many important
+areas of teaching and learning, research, and decision-making
+[1]. It is about mimicking humans in terms of both reasoning
+and behaviour [2, 3]. Na¨ıve Bayes, decision tree, and many
+other related algorithms have prognostic capabilities that are
+of great interest to medical educators and [4] and are being
+used to facilitate learning [5]. Machine learning models learn
+from experiences or observations and then become very
+active to achieve human-like actions [6, 7]. Investigations
+have shown that ML has forecasting capabilities by gaining an
+understanding of each student’s strengths and weaknesses, as
+Hindawi
+Computational Intelligence and Neuroscience
+Volume 2022, Article ID 5624475, 7 pages
+https://doi.org/10.1155/2022/5624475
+well as reasons for why they may be struggling in the
+classroom [8, 9].
+Forecasting of learning outcomes using the machine
+learning approach can help educational institutions to
+understand the learning patterns and behaviours of their
+students, which can be useful in improving school policies, curriculum preparations, and teacher methodology
+[10]. Indeed, machine learning algorithms offer opportunities for organizations, including educational institutions to achieve minimal forecast errors (accuracy) and
+improve their decision-making process and operational
+performances [11]. ML provides improvements that help
+reduce forecast mistakes or errors that have been a source
+of concerns to many forecasters and their clients in recent
+times. +e inaccuracy in forecasting often causes major
+problems to systems and could lead to poor decisionmaking and system failure. With machine learning
+models that monitor learners’ progress and recommend
+next steps have been achieved, and learning analytics are
+also made possible to accommodate special learners and
+those that require more attention or personalized
+teaching. +is study reviews the benefits of ML and its
+shortcomings when deployed for academic forecasting.
++e study would go a long way to assist forecasters and
+education authorities in understanding the emerging
+prospects and challenges of machine learning and how
+best to apply it in the education sector to minimize
+student’s failures and to enhance the decision-making
+process. +is investigation adds to the body of information about the educational applications of machine
+learning and artificial intelligence.
+2. Related Literature
+Several researchers [7, 10, 12–19] have highlighted the
+growing application and usefulness of machine learning as a
+tool for forecasting of events in the academic sector. Similarly, a study by Elhaj et al. [13] proved the exactness of the
+KNN algorithm in detecting the student’s learning style,
+which is fast becoming helpful in training at-risk students.
+Halde [20] gave analysis of various ways in which machine learning can be applied by educational institutions to
+predict students’ performance and the critical characteristics
+that have to be considered while making such predictions.
++e researcher discovered that ML enhances more precise
+and accurate prediction of academic performances, but
+features such as learning styles, motivation, and many other
+factors relating to students’ learning have to be considered to
+achieve accuracy. Essinger and Rosen [21] presented a
+system to aid students’ motivation and interests in problem
+solving using machine learning.
+Dhanabal and Chandramathi [22] and Itoh et al. [23]
+developed a model based on the machine learning algorithm with the capacity to accurately forecast students’
+academic outputs based on their historical or previous
+record of performances. +ey achieved success in the
+study as students’ academic standings were predicted,
+thereby enabling those at risk to receive some help that
+enhanced their performances. Research on ML is fast
+growing, but there are gaps in the literature regarding its
+prospects and challenges in academic forecasting in recent times as most existing studies seemed to have been
+conducted years ago. +us, this study provides updated
+knowledge in this regard. +e summary of the review is
+illustrated in Table 1.
+3. Overview of Machine Learning
+Machine learning is about training machines to learn
+certain behaviours or traits and then think and make decisions based on the learned behaviour. It remains one of
+the promising areas of research to solve many societal
+problems and can be classified as supervised and unsupervised learning techniques. +rough the use of an unsupervised method, you may see if a system can derive data
+and inferences even when there are not any results or
+training data. While in the supervised learning field, for
+each observation of the predictor xi, i � 1, . . ., n there is a
+related outcome yi [7]. Supervised algorithms facilitate the
+understanding of the learning history of the system and the
+correctness of the output for future analysis. Machine
+learning can be applied in different areas, including DNA
+sequence classification, image processing such as face detection, speech recognition aka natural language processing, security, search engine algorithms, and academic
+forecasting [34, 35].
+According to trueinteraction.com [36] and Edeh et al.
+[37], predictions based on machine learning can be reliable if the dataset is properly trained and the validation
+of the model is right. Indeed, the prospects of ML are
+huge, and as the education industry embraces new realities, ML together with other emerging technologies
+could play a bigger role in learning analytics, e-learning,
+students’ examinations and performance prediction and
+tracking of teaching, and learning progress. Several
+machine learning algorithms such as multilayer perceptron (MLP) and CART regression trees (CART) have
+different potentials which are of great interest to stakeholders in the academic sector. For machine learning to
+be able to understand a dataset, it has to be trained and
+also pass through different processes to fully comprehend
+such data and be able to interpret and enhance prediction
+or any other expected decisions. +is study looks at the
+pros and cons associated with machine learning use in
+academic forecasting compared to other forecasting
+methods. Consequently, Table 2 highlights the comparison between the machine learning-based forecasting and
+the traditional forecasting technique.
++e comparison between traditional and machine
+learning forecasting techniques is further explained in
+Figures 1 and 2 adopted from the Genpact.com website.
+Figure 1 shows the stages applied in the traditional
+forecasting technique. While Figure 2 depicts different
+stages that forecasting through machine learning goes
+through before generating an output. As it can be seen,
+Figure 2 contains more robust or rigorous procedures that
+actually improve the accuracy of the output that is
